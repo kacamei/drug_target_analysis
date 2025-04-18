@@ -1,0 +1,5 @@
+chembl_webresource_client
+pandas
+requests
+tqdm
+
